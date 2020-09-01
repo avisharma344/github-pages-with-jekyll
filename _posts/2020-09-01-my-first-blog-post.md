@@ -1,3 +1,3 @@
 Quick Draft
-title: "Welcome All"
+title: "Welcome Everyone"
 date: 2020-09-01
